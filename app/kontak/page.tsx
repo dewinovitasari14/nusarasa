@@ -19,7 +19,7 @@ export default function KontakPage() {
           Kontak Kami
         </p>
 
-        <p className="mt-6 max-w-2xl text-lg leading-8 text-gray-600">
+        <p className="mt-6 max-w-5xl text-lg leading-8 text-gray-600">
           Punya pertanyaan, ingin melakukan pemesanan, atau sekadar ingin
           menyapa? Kami dengan senang hati akan membantu.
         </p>
