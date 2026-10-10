@@ -26,49 +26,7 @@ export default function TentangPage() {
         </p>
       </section>
 
-      {/* Content */}
-      <section className="mx-auto grid max-w-5xl gap-6 px-6 pb-16 md:grid-cols-3">
-        <div className="rounded-2xl bg-white p-6 shadow-sm">
-          <div className="mb-4 text-4xl">🥐</div>
-
-          <h3 className="mb-3 text-xl font-semibold text-gray-900">
-            Cerita Kami
-          </h3>
-
-          <p className="leading-7 text-gray-600 text-justify">
-            NusaRasa lahir dari kecintaan terhadap roti yang hangat,
-            aroma panggangan yang menggoda, dan keinginan menghadirkan
-            rasa yang sederhana namun berkesan.
-          </p>
-        </div>
-
-        <div className="rounded-2xl bg-white p-6 shadow-sm">
-          <div className="mb-4 text-4xl">🍰</div>
-
-          <h3 className="mb-3 text-xl font-semibold text-gray-900">
-            Produk Kami
-          </h3>
-
-          <p className="leading-7 text-gray-600 text-justify">
-            Kami menyediakan berbagai pilihan roti, croissant, cake,
-            dan cookies yang dibuat dengan bahan berkualitas.
-          </p>
-        </div>
-
-        <div className="rounded-2xl bg-white p-6 shadow-sm">
-          <div className="mb-4 text-4xl">❤️</div>
-
-          <h3 className="mb-3 text-xl font-semibold text-gray-900">
-            Komitmen Kami
-          </h3>
-
-          <p className="leading-7 text-gray-600 text-justify">
-            Setiap produk NusaRasa dibuat dengan perhatian terhadap
-            kualitas, rasa, dan kesegaran.
-          </p>
-        </div>
-      </section>
-
+      
       {/* Footer */}
       <footer className="border-t border-gray-200 bg-white py-6 text-center">
         <p className="text-sm text-gray-500">

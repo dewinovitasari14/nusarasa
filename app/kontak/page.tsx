@@ -20,8 +20,7 @@ export default function KontakPage() {
         </p>
 
         <p className="mt-6 max-w-5xl text-lg leading-8 text-gray-600">
-          Punya pertanyaan, ingin melakukan pemesanan, atau sekadar ingin
-          menyapa? Kami dengan senang hati akan membantu.
+          Punya pertanyaan, atau ada yang ingin disampaikan? Kami dengan senang hati akan membantu.
         </p>
       </section>
 
